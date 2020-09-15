@@ -1,6 +1,6 @@
 # Churrascômetro
 
-![https://github.com/Arkaitus/Churrascometro/blob/master/churrascometro.jpg]
+<img src=”https://github.com/Arkaitus/Churrascometro/blob/master/churrascometro.jpg” height="150" width="150">
 
 ## Sobre o Projeto
 ---
